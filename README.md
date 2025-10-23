@@ -1,4 +1,4 @@
-## Hi, I'm @ShannaJSmith 😉
+## Hi, I'm @Shanna 😉
 
 - 🎓 Graduate from the Web Development Lighthouse Labs bootcamp
 - 🌱 I’m a full stack developer
